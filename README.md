@@ -35,4 +35,4 @@ This repository is deployed on Heroku. Thus, whenever we make pull request on ma
 command: `npm run dev`
  <br />
  <br />
-Last updated on 5/25/2021
+
