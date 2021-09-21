@@ -4,7 +4,7 @@ Our front-end repository is at here [project-416](https://github.com/iianjun/tin
 
 ### Also, our main file is "server.js".
 
-This back-end repository is deployed in a domain [click here](https://www.tinydesk.me/).
+This back-end repository is deployed in a [domain](https://www.tinydesk.me/).
 Note that only <I>Back End</I> is deployed. Our front-end repository will be deployed through Heroku. 
 
 ### How we push changes to Heroku Application.
