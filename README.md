@@ -1,10 +1,10 @@
-# The Back-end Repository for Command T
+# The Back-end Repository for Tiny Desk
 
-Our front-end repository is at here [project-416](https://github.com/janarosmonaliev/project-416).
+Our front-end repository is at here [project-416](https://github.com/iianjun/tinydesk).
 
 ### Also, our main file is "server.js".
 
-This back-end repository is deployed through Heroku [click here](https://commandt-backend.herokuapp.com/).
+This back-end repository is deployed in a domain [click here](https://www.tinydesk.me/).
 Note that only <I>Back End</I> is deployed. Our front-end repository will be deployed through Heroku. 
 
 ### How we push changes to Heroku Application.
